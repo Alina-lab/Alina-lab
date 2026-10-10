@@ -1,41 +1,39 @@
-# Hi, I'm Alina 👋
+# Алина | Аналитика данных
 
-I'm building my path in **Data Analytics** with a focus on business and product problems.
+Изучаю аналитику данных. Применяю Python, SQL и статистику к бизнес-задачам: сравниваю показатели розничных сетей, исследую повторные покупки и формулирую гипотезы для экспериментов.
 
-I work with Python, pandas, SQL and statistics, and I use portfolio projects to practice the full analytical workflow: from data preparation to business conclusions.
+## Избранные проекты
 
-## Featured project
+### X5 Retail Analysis
 
-### [X5 Retail Analysis](https://github.com/Alina-lab/x5-retail-analysis)
+Чем различались темпы роста Пятёрочки, Перекрёстка и Чижика в 2025 году? В исследовании сопоставлены динамика выручки, LFL-продажи, трафик, средний чек и расширение сетей.
 
-Analysis of X5 retail networks using public operating data.
+- Пятёрочка формирует **79,2% выручки трёх выбранных сетей**; выручка Чижика выросла на **67,3%**.
+- У Перекрёстка LFL-трафик снизился на **2,2%**.
 
-**Question:** why did revenue dynamics differ between Pyaterochka, Perekrestok and Chizhik in 2025?
+**Инструменты:** Python · pandas · Matplotlib · Jupyter Notebook
 
-The project covers:
-- revenue structure and growth;
-- LFL sales, traffic and average check;
-- store network expansion;
-- business interpretation and analysis limitations.
+[Репозиторий](https://github.com/Alina-lab/x5-retail-analysis) · [Полное исследование](https://github.com/Alina-lab/x5-retail-analysis/blob/main/x5_retail_analysis.ipynb)
 
-## Tech stack
+### Olist Retention Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+Какие категории первой покупки связаны с повторными покупками и как доля повторов различается при доставке вовремя и с задержкой? Описательный анализ категорий и доставки помог выбрать гипотезы для CRM-экспериментов.
 
-## What I'm learning now
+- За 180 дней снова купили **2,75% покупателей**; в домашнем текстиле — **4,49%**.
+- За полные **180 дней после получения** повторно купили **1,87%** покупателей с доставкой вовремя и **1,37%** с задержкой.
 
-- product metrics and analytical cases;
-- A/B testing and hypothesis testing;
-- cohort and retention analysis;
-- deeper pandas and SQL;
-- foundations of machine learning.
+**Инструменты:** SQL · SQLite · Python · pandas · Matplotlib · Jupyter Notebook
 
-## Portfolio
+[Репозиторий](https://github.com/Alina-lab/ecommerce-retention-analysis) · [Полное исследование](https://github.com/Alina-lab/ecommerce-retention-analysis/blob/main/olist_retention_analysis.ipynb)
 
-More projects are coming soon. I want each one to answer a real analytical question rather than just demonstrate tools.
+## Технологии и инструменты
+
+Python · pandas · SQL · SQLite · Matplotlib · Jupyter Notebook
+
+## Обучение и развитие
+
+Углубляю SQL и Python для анализа данных. Изучаю продуктовые метрики, статистику и A/B-тестирование.
+
+## Контакты
+
+Telegram: [@dragonbornAlya](https://t.me/dragonbornAlya)
