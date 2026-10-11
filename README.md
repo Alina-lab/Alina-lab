@@ -28,6 +28,12 @@ Python, pandas, SQL, SQLite, Matplotlib, Jupyter Notebook
 
 Углубляю SQL и Python для анализа данных. Изучаю продуктовые метрики, статистику и A/B-тестирование.
 
+## Сертификаты
+
+- [SQL для всех. Level Up — Stepik](https://stepik.org/cert/3249427)
+- [Python: анализ данных с Pandas — Stepik](https://stepik.org/cert/3364043)
+- [Продуктовые метрики. Визуализация в Python и BI Yandex DataLens — Stepik](https://stepik.org/cert/3364058)
+
 ## Контакты
 
 Telegram: [@dragonbornAlya](https://t.me/dragonbornAlya)
