@@ -20,6 +20,14 @@
 
 [Репозиторий](https://github.com/Alina-lab/ecommerce-retention-analysis) · [Полное исследование](https://github.com/Alina-lab/ecommerce-retention-analysis/blob/main/olist_retention_analysis.ipynb)
 
+### Cookies
+
+Насколько можно сократить добавленную сахарозу в печенье с помощью пищевых волокон? На опубликованных экспериментальных данных сравниваю пять рецептур и предлагаю направления следующих производственных испытаний с учётом вкуса и структуры.
+
+**Инструменты:** Python · pandas · SciPy · Plotly · Streamlit · Jupyter Notebook
+
+[Репозиторий](https://github.com/Alina-lab/cookies) · [Полное исследование](https://github.com/Alina-lab/cookies/blob/main/biscuit_recipe_analysis.ipynb) · [Дашборд](https://cookies-alina-lab.streamlit.app/)
+
 ## Технологии и инструменты
 
 Python, pandas, SQL, SQLite, Matplotlib, Jupyter Notebook
