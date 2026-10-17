@@ -28,6 +28,14 @@
 
 [Репозиторий](https://github.com/Alina-lab/cookies) · [Полное исследование](https://github.com/Alina-lab/cookies/blob/main/biscuit_recipe_analysis.ipynb) · [Дашборд](https://cookies-alina-lab.streamlit.app/)
 
+### Bar Menu — исследование вкусов и разработка меню настоек
+
+Какие вкусы настоек включить в барное меню с учётом отзывов гостей и стоимости ингредиентов? Изучила упоминания напитков в отзывах баров Санкт-Петербурга, составила меню из десяти настоек и рассчитала закупки и сырьевую себестоимость каждой порции.
+
+**Инструменты:** Python · pandas · Matplotlib · Excel · Jupyter Notebook
+
+[Репозиторий](https://github.com/Alina-lab/Bar_menu) · [Полное исследование](https://github.com/Alina-lab/Bar_menu/blob/main/bar_menu_analysis.ipynb) · [Готовое меню](https://github.com/Alina-lab/Bar_menu/blob/main/technical/results/nastoyka_menu.pdf)
+
 ## Технологии и инструменты
 
 Python, pandas, SQL, SQLite, Matplotlib, Jupyter Notebook
